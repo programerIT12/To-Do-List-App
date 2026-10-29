@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do-List-App
 
 A simple task manager built with vanilla JavaScript.
 
